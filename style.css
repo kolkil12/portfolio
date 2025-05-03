@@ -1,0 +1,19 @@
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 90%;
+    width: 95%;
+    padding-left: 5%;
+    background: url('Обложка.png');
+    background-size: cover;
+}
+.up {
+    border: 10px dotted #485351;
+    display: flex; 
+    width: 94%;
+    align-items: center;
+    justify-content: space-between; 
+    height: 100px;
+    padding-left: 5%;
+}
